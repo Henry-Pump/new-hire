@@ -23,7 +23,7 @@
 
 ## Tasks to Complete
 
-1.   [Set PLC IP Address on a CompactLogix PLC](tasks/new-hire-task1.md)
+1.   [Set PLC IP Address on a CompactLogix PLC](tasks/new-hire-task1.html)
 2.   Set PLC IP Address on a Micro800 CompactLogic
 3.   Set HMI IP Address on a Panelview 800 HMI
 4.   Enable VNC Server on Panelview 800 HMI

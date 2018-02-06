@@ -1,16 +1,16 @@
 # New Hire Learning
 
 ## Software Needed
--   Rockwell Automation
-  -   Studio 5000 V30
-  -   RSLinx (installed with Studio 5000)
-  -   Connected Components Workbench (Developer Edition)
-  -   FactoryTalk View Studio for ME
--   Github Desktop
--   Text Editor (Only one of the following required):
-  -   Atom
-  -   Sublime Text
-  -   VS Code
+- Rockwell Automation
+  - Studio 5000 V30
+  - RSLinx (installed with Studio 5000)
+  - Connected Components Workbench (Developer Edition)
+  - FactoryTalk View Studio for ME
+- Github Desktop
+- Text Editor (Only one of the following required):
+  - Atom
+  - Sublime Text
+  - VS Code
 - VNC Viewer
 - Google Chrome
 

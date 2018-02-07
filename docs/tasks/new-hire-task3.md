@@ -1,18 +1,14 @@
-# Task 3 - Set IP Address on Panelview Plus 6/7
+# Task 3 - Set IP Adress on Panelview Plus 6/7
 
 ## Equipment Needed
 
 -   Panelview Plus 6/7
--   EtherNet Cable
 
 ## Procedure
 
 1.  If an application is running, exit the application.
-2.  From the Main Menu, press "Exit".
-3.  Enter the HMI Password and press "Enter". This should bring you to the Windows CE Desktop.
-4.  Navigate to "Start > Settings > Control Panel" and open "Server Config".
-5.  Configure the Security options on the VNC Server tab and hit "OK"
-6.  Open "Services" from the Control Panel menu.
-7.  Press the "VNC Server" button to ensure it is green (enabled).
-8.  Verify the VNC server is configured correctly using VNC Viewer.
-9.  Reboot the HMI by navigating to "Start > Programs > Restart System".
+2.  Navigate to "Terminal Settings > Networks and Communications > Network Connections > Network Adapters".
+3.  Select "IP Address".
+4.  Set the IP Address, Subnet Mask, and Gateway to the desired settings.
+5.  Ensure "Use DHCP" is set to "No."
+6.  Return to the Main Menu and press "Reset" to restart the HMI.

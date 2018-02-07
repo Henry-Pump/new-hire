@@ -26,7 +26,7 @@
 1.   [Set IP Address via RSLinx](tasks/new-hire-task1.html)
 2.   [Enable VNC Server on Panelview 800 HMI](tasks/new-hire-task2.html)
 3.   [Set HMI IP Address on a Panelview Plus 6/7 HMI](tasks/new-hire-task3.html)
-4.   Enable VNC Server on Panelview Plus 6/7 HMI
+4.   [Enable VNC Server on Panelview Plus 6/7 HMI](tasks/new-hire-task4.html)
 5.   Flash the firmware for a device via CompactFlash and RSLinx
 6.   Download a Connected Components Workbench drive file to a VFD
 7.   Download a PLC program to a CompactLogix PLC
